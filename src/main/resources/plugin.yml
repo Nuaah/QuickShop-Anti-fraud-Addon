@@ -1,0 +1,4 @@
+name: QuickShopAnti-fraudAddon
+version: '1.0'
+main: nuaah.plugin.quickshopantifraudaddon.quickShopAntiFraudAddon.QuickShopAntiFraudAddon
+api-version: '1.18'
